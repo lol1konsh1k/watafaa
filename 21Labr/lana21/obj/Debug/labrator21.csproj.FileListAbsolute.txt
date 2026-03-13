@@ -1,0 +1,11 @@
+C:\Users\UBP\Desktop\Лабраторная 21\21Labr\lana21\bin\Debug\21Labr.exe.config
+C:\Users\UBP\Desktop\Лабраторная 21\21Labr\lana21\bin\Debug\21Labr.exe
+C:\Users\UBP\Desktop\Лабраторная 21\21Labr\lana21\bin\Debug\21Labr.pdb
+C:\Users\UBP\Desktop\Лабраторная 21\21Labr\lana21\obj\Debug\labrator21.csproj.AssemblyReference.cache
+C:\Users\UBP\Desktop\Лабраторная 21\21Labr\lana21\obj\Debug\21Labr.exe.config
+C:\Users\UBP\Desktop\Лабраторная 21\21Labr\lana21\obj\Debug\DisciplineManager.Form1.resources
+C:\Users\UBP\Desktop\Лабраторная 21\21Labr\lana21\obj\Debug\lana21.Properties.Resources.resources
+C:\Users\UBP\Desktop\Лабраторная 21\21Labr\lana21\obj\Debug\labrator21.csproj.GenerateResource.cache
+C:\Users\UBP\Desktop\Лабраторная 21\21Labr\lana21\obj\Debug\labrator21.csproj.CoreCompileInputs.cache
+C:\Users\UBP\Desktop\Лабраторная 21\21Labr\lana21\obj\Debug\21Labr.exe
+C:\Users\UBP\Desktop\Лабраторная 21\21Labr\lana21\obj\Debug\21Labr.pdb
